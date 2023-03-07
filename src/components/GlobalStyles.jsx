@@ -3,7 +3,13 @@ import 'modern-normalize';
 
 export const GlobalStyles = () => injectGlobal`
    body {
-    background: linear-gradient(90deg, rgba(31,3,3,1) 0%, rgba(3,67,79,1) 50%, rgba(2,142,114,1) 100%);
+    background-image: url('https://images.unsplash.com/photo-1611416517780-eff3a13b0359?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1949&q=80');
+    background-size: auto 100vh;
+    background-repeat: no-repeat;
+    ;
+    display:flex;
+    justify-content: center;
+    padding: 50px 30px;
     margin: 0;
     font-family: monospace,
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

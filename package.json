@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://norf-90.github.io/goit-react-hw-03-phonebook/",
+  "homepage": "https://norf-90.github.io/goit-react-hw-04-phonebook/",
   "dependencies": {
     "@emotion/css": "^11.10.6",
     "@emotion/react": "^11.10.6",
